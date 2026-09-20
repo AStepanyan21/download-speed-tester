@@ -19,7 +19,7 @@ Clone the repository and open its directory:
 
 ```bash
 git clone <repository-url>
-cd download_speed_tester
+cd download-speed-tester
 ```
 
 If you use Poetry, install the project environment with:
